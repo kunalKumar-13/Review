@@ -1,4 +1,4 @@
-# GitHub Profile Review
+# Review
 
 A beautiful, animated web app that generates a comprehensive visual review of any GitHub user's profile — stats, languages, contributions, top repositories, and more.
 
@@ -35,8 +35,8 @@ A beautiful, animated web app that generates a comprehensive visual review of an
 ### Installation
 
 ```bash
-git clone https://github.com/tanishbhandari11t/Github-Proflie-Review.git
-cd Github-Proflie-Review
+git clone https://github.com/kunalKumar-13/Review.git
+cd Review
 npm install
 ```
 
@@ -60,4 +60,4 @@ This app is deployed on **Vercel**. Simply connect your GitHub repo to [Vercel](
 
 ## Author
 
-**Tanish Bhandari** — [@tanishbhandari11t](https://github.com/tanishbhandari11t)
+**Kunal Kumar** — [@kunalKumar-13](https://github.com/kunalKumar-13)
